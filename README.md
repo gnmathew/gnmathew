@@ -8,7 +8,7 @@ I am a creer shifter who has a passion for coding. With grit and determination I
 
 * 🌍  I'm based in Metro Manila, Philippines
 * ✉️  You can contact me at [genemathewdorado@gmail.com](mailto:genemathewdorado@gmail.com)
-* 🧠  I'm learning Python, SQL, Linux
+* 🧠  I am learning React, SQL, Linux
 
 ### Skills
 
