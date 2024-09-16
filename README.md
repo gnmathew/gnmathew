@@ -1,14 +1,15 @@
 Hi 👋 My name is Mathew
 =======================
 
-Jr. Software Engineer
+Software Engineer
 ---------------------
 
-I am a creer shifter who has a passion for coding. With grit and determination I can overcome all challenges that may come my way.
+I am a creer shifter who has a passion for building things. I joined a coding bootcamp that paved the way for me in achieving my dream. 
+With grit and determination I can overcome all challenges and setbacks. It may still be far, but I've already come a long way.
 
 * 🌍  I'm based in Metro Manila, Philippines
 * ✉️  You can contact me at [genemathewdorado@gmail.com](mailto:genemathewdorado@gmail.com)
-* 🧠  I am learning React, SQL, Linux
+* 🧠  I am learning React, Docker, Linux
 
 ### Skills
 
